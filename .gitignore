@@ -11,7 +11,7 @@ node_modules
 .nx
 scripts
 templates
-core
+
 # testing
 bin
 .bin
